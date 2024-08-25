@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Achmad Royhan Kamil!
 
-### 🚀 Game Developer | 🎮 AI Enthusiast | 🛠 Software Engineer
+### 🎮 Game Developer | 🤖 AI Enthusiast | 💻 Software Engineer
 
 Welcome to my GitHub! I'm a passionate creator with expertise in game development, artificial intelligence, and software engineering, always driven to explore and innovate at the intersection of these fields.
 
 ## 🌟 About Me
 
-- **Game Development**: Over two years of experience in developing games, from scratch and with various engines.
-- **Artificial Intelligence**: Over a year of deep exploration in AI, working on projects from traditional machine learning to advanced deep learning.
-- **Software Engineering**: Strong foundation with a track record of leading successful projects, including the Air Force Lunc game and school development initiatives.
+- 🎮 **Game Development**: Over two years of experience in developing games, from scratch and with various engines.
+- 🤖 **Artificial Intelligence**: Over a year of deep exploration in AI, working on projects from traditional machine learning to advanced deep learning.
+- 💻 **Software Engineering**: Strong foundation with a track record of leading successful projects, including the Air Force Lunc game and school development initiatives.
 
 ## 🔥 What Drives Me
 
@@ -25,6 +25,6 @@ Right now, I’m focused on the exciting intersection of gaming and AI. I’m co
 
 ## 🌐 Connect with Me
 
-- **Email**: [royhan1125@gmail.com](mailto:royhan1125@gmail.com)
-- **Instagram**: [@aroyyyka](https://www.instagram.com/aroyyyka/)
-- **LinkedIn**: [Achmad Royhan Kamil](https://www.linkedin.com/in/achmad-royhan-kamil/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royhan1125@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aroyyyka/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmad-royhan-kamil/)
