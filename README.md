@@ -2,8 +2,6 @@
 
 ### 🎮 Game Developer | 🤖 AI Enthusiast | 💻 Software Engineer
 
-Welcome to my GitHub! I'm a passionate creator with expertise in game development, artificial intelligence, and software engineering, always driven to explore and innovate at the intersection of these fields.
-
 ## 🌟 About Me
 
 - 🎮 **Game Development**: Over two years of experience in developing games, from scratch and with various engines.
@@ -12,11 +10,11 @@ Welcome to my GitHub! I'm a passionate creator with expertise in game developmen
 
 ## 🔥 What Drives Me
 
-I'm driven by a passion for innovation and creativity. Whether it's designing a new game mechanic, experimenting with AI algorithms, or leading a development team, I am always looking for ways to blend technology with creative thinking. My work is a reflection of my belief that the best solutions come from combining diverse perspectives and pushing beyond traditional boundaries.
+Passionate about blending technology with creativity, I thrive on designing innovative game mechanics, experimenting with AI, and leading teams. I believe the best solutions come from diverse perspectives and pushing boundaries.
 
 ## 🎯 Current Focus
 
-Right now, I’m focused on the exciting intersection of gaming and AI. I’m constantly learning, experimenting, and building projects that explore how these two fields can come together to create something truly unique. My goal is to create engaging, intelligent, and innovative gaming experiences that captivate and challenge players.
+Currently, I’m exploring the exciting intersection of gaming and AI, constantly learning and building projects that merge these fields to create unique, intelligent, and engaging experiences.
 
 ## 📊 GitHub Stats
 
