@@ -26,8 +26,9 @@
 
 ## 📊 GitHub Stats
 
-![Achmad Royhan Kamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=royhankamil&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=royhankamil&layout=compact&theme=radical)
+![royhankamil's Stats](https://github-readme-stats.vercel.app/api?username=royhankamil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![royhankamil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royhankamil&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![royhankamil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=royhankamil&theme=vue-dark&hide_border=true)
 
 ## 🌐 Connect with Me
 
