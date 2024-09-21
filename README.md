@@ -2,27 +2,28 @@
 
 ### 🎮 Game Developer | 🤖 AI Enthusiast | 💻 Software Engineer
 
-## 🌟 About Me
+<details>
+  <summary>🌟 About Me</summary>
+  
+  - 🎮 **Game Development**: Over two years of experience in developing games, from scratch and with various engines.
+  - 🤖 **Artificial Intelligence**: Over a year of deep exploration in AI, working on projects from traditional machine learning to advanced deep learning.
+  - 💻 **Software Engineering**: Strong foundation with a track record of leading successful projects, including the Air Force Lunc game and school development initiatives.
 
-- 🎮 **Game Development**: Over two years of experience in developing games, from scratch and with various engines.
-- 🤖 **Artificial Intelligence**: Over a year of deep exploration in AI, working on projects from traditional machine learning to advanced deep learning.
-- 💻 **Software Engineering**: Strong foundation with a track record of leading successful projects, including the Air Force Lunc game and school development initiatives.
+</details>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1; margin-right: 10px;">
-    
-  ## 🔥 What Drives Me
+<details>
+  <summary>🔥 What Drives Me</summary>
+  
   Passionate about blending technology with creativity, I thrive on designing innovative game mechanics, experimenting with AI, and leading teams. I believe the best solutions come from diverse perspectives and pushing boundaries.
 
-  </div>
+</details>
+
+<details>
+  <summary>🎯 Current Focus</summary>
   
-  <div style="flex: 1; margin-left: 10px">
-    
-  ## 🎯 Current Focus
   Currently, I’m exploring the exciting intersection of gaming and AI, constantly learning and building projects that merge these fields to create unique, intelligent, and engaging experiences.
 
-  </div>
-</div>
+</details>
 
 ## 📊 GitHub Stats
 
