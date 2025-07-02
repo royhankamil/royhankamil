@@ -25,11 +25,11 @@
 
 </details>
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![royhankamil's Stats](https://github-readme-stats.vercel.app/api?username=royhankamil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![royhankamil's Stats](https://github-readme-stats.vercel.app/api?username=royhankamil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
 ![royhankamil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=royhankamil&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![royhankamil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=royhankamil&theme=vue-dark&hide_border=true)
+![royhankamil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=royhankamil&theme=vue-dark&hide_border=true) -->
 
 ## 🌐 Connect with Me
 
